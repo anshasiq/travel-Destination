@@ -1,7 +1,7 @@
 import React from "react";
 import "./tours.css"
 import db from "../../data/db.json";
-function tours(props) {
+function Tours() {
     return (
         <div>
            {
@@ -18,4 +18,4 @@ function tours(props) {
         </div>
     );
 }
-export default tours;
+export default Tours;

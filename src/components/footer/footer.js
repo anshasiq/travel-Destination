@@ -1,6 +1,6 @@
 import React from "react";
 import "./footer.css"
-function footer() {
+function Footer() {
     return (
         <div>
           <h4>social media links : </h4>
@@ -10,4 +10,4 @@ function footer() {
 
     );
 }
-export default footer;
+export default Footer;

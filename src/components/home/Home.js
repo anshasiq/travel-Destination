@@ -1,15 +1,15 @@
 import React from "react";
 import "./home.css"
-import header from "../header/header";
-import tours from "../tours/tours";
-import footer from "../footer/footer";
+import Header from "../header/Header";
+import Tours from "../tours/tours";
+import Footer from "../footer/Footer";
 // import db from "../../data/db.json";
 function Home() {
     return (
         <div>
-   <header />
-   <tours />
-   <footer />
+   <Header />
+   <Tours />
+   <Footer />
         </div>
 
 
