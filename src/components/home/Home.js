@@ -1,3 +1,4 @@
+// import { Routes, Route } from 'react-router-dom';
 import React from "react";
 import "./home.css"
 import Header from "../header/Header";
@@ -11,7 +12,7 @@ function Home() {
    <Tours />
    <Footer />
         </div>
-
+ 
 
     );
 }
