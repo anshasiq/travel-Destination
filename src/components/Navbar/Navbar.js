@@ -3,7 +3,7 @@ function Nav() {
     return (
         <nav>
             <Link to='/'>Home</Link>
-            <Link to='/city'>city</Link>
+            {/* <Link to='/city'>city</Link> */}
         </nav>
     );
 }
